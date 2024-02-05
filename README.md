@@ -1,3 +1,3 @@
 # gaussian-elimination
 
-# gaussian-elimination and OpenMP
+### gaussian-elimination and OpenMP
